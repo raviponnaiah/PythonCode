@@ -15,3 +15,4 @@ for line in fhand:
             counts[word] += 1
 
 print counts
+print hello
